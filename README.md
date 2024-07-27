@@ -1,4 +1,4 @@
-## code to extract Scaling Law from LLama3.1 paper
+## code to extract Scaling Law data from LLama3.1 paper
 
 1. First, you need to install qpdf
 
